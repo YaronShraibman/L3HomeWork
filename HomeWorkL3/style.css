@@ -1,0 +1,101 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-image: url("https://as2.ftcdn.net/v2/jpg/01/65/90/25/1000_F_165902561_mH4QghGxDMRdiYoNDlB3Q6JlB2Rrd7CG.jpg");
+
+  background-size: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  background-color: lightblue;
+  height: 70px;
+  border: solid black 8px;
+  text-align: center;
+  font-size: 40px;
+  margin: 20px;
+  padding: 30px 0 5px;
+}
+.disappearingDiv {
+  height: 500px;
+}
+.footer {
+  background-color: lightblue;
+  height: 50px;
+  margin: 250px 0 5px;
+  padding: 30px 0 5px;
+  border: solid black 8px;
+  text-align: center;
+  font-size: 40px;
+}
+.menu {
+  padding: 10px;
+  height: 500px;
+  width: 13%;
+  float: left;
+  background-color: lightgrey;
+  font-size: 40px;
+  border: solid black 8px;
+  text-align: center;
+}
+#links {
+  font-size: 25px;
+  text-align: left;
+}
+.content {
+  float: right;
+  background-color: lightgrey;
+  height: 500px;
+  width: 84%;
+  border: solid black 8px;
+}
+.searchBar {
+  background-color: lightcoral;
+  height: 40px;
+  margin: 10px;
+  width: 99%;
+  text-align: center;
+  font-size: 40px;
+  border: solid black 2px;
+}
+.indexImg {
+  width: 250px;
+  height: 250px;
+  padding: 25px;
+}
+#img1 {
+  width: 750px;
+}
+#img2 {
+  float: right;
+  border-radius: 50%;
+}
+#img3 {
+  float: right;
+  border-radius: 50%;
+}
+#scrollButton {
+  position: fixed;
+  bottom: 100px;
+  right: 10px;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  border: 8px green solid;
+}
+.button {
+  border-radius: 50%;
+}
+#contactForm {
+  background-color: white;
+  color: red;
+  font-size: 25px;
+}
+.legendForm {
+  text-align: center;
+}
+.HomePage {
+  background-color: lightyellow;
+  color: black;
+}
